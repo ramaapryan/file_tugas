@@ -1,0 +1,13 @@
+body{
+	background-color:#EEEEEE;
+	margin:0cm 2cm;
+}
+h1{
+	color:#3A1078;
+	text-transform:uppercase;
+	letter-spacing:5px;
+	text-align: center;
+}
+hr{
+	border:red dashed 2px;
+}
